@@ -39,7 +39,7 @@ class Income{
     }
 
     public String getIncomeType(){
-            return incomeType;
+        return incomeType;
     }
 
     public double getAmount(){
