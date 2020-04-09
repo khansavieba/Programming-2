@@ -1,0 +1,8 @@
+Type the above definition of a Triangle class and save in a file. 
+1.	What is the name to be given to this file?
+Triangle.java
+
+2.	Compile this file.  If you get any error, it means that you haven’t typed correctly the given codes.
+
+3.	After a successful compilation, now try to run. Explain what happened and why.
+The code has no output because there’s no main method being called 
